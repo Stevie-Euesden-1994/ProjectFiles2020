@@ -1,2 +1,2 @@
-# ProjectFiles2020
-New Pygame i have recently learnt to create
+#SpaceInvaders
+Simple Space Invaders game written in python
